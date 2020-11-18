@@ -78,3 +78,4 @@ The default options are shown in the following example ASTExtractor.properties f
 <pre><code>LEAF = PackageDeclaration, ImportDeclaration, ParameterizedType, ArrayType, VariableDeclarationFragment
 OMIT = Javadoc, Block</code></pre>
 
+
